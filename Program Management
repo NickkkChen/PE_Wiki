@@ -1,3 +1,27 @@
 Sustainability Review Check-list: 
-A sample:
-  Product HV voltage specification
+  Design: 
+    Product HV & LV specification
+    Product LV specification 
+    High level product specification
+    Component specification
+    
+    Design Roadmap
+    Technology Roadmap
+    Sustaining Roadmap
+    
+    Product lessons and learns
+    A sample design:
+      HV/LV Architecture
+      CP/CL CPDR
+      Control Method
+      Conveter system and component loss modelling
+      Layout guildline and instructions
+      PCBA checklist 
+      Validation tickets
+      Design issue tracker
+      Change list to -B sample
+      A phase exit review
+     
+     B sample design
+      
+      
